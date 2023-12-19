@@ -6,19 +6,9 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents.
 
-### JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models
-
-<img src="assets/2311.05997.png" />
-
-[[Website]](https://craftjarvis.org/JARVIS-1/)
-[[Paper]](https://arxiv.org/pdf/2111.05997.pdf)
-[[Code]](https://github.com/CraftJarvis/JARVIS-1)
-
-We introduce JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, we develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. We outfit JARVIS-1 with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. 
-
 ### GROOT: Learning to Follow Instructions by Watching Gameplay Videos 
 
-<img src="assets/2310.08235.png" />
+<img src="../assets/2310.08235.png" />
 
 [[Website]](https://craftjarvis.org/GROOT/)
 [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
@@ -26,10 +16,20 @@ We introduce JARVIS-1, an open-world agent that can perceive multimodal input (v
 
 This work proposes to follow reference videos as instructions, which offer expressive goal specifications while eliminating the need for expensive text-gameplay annotations, and implements the agent GROOT in a simple yet effective encoder-decoder architecture based on causal transformers.
 
+### JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models
+
+<!-- <img src="../assets/2311.05997.png" /> -->
+
+[[Website]](https://craftjarvis.org/JARVIS-1/)
+[[Paper]](https://arxiv.org/pdf/2111.05997.pdf)
+[[Code]](https://github.com/CraftJarvis/JARVIS-1)
+
+We introduce JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, we develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. We outfit JARVIS-1 with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. 
+
 
 ### Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
 
-<img src="assets/2302.01560.png" />
+<!-- <img src="../assets/2302.01560.png" /> -->
 
 [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)
 [[Code]](https://github.com/CraftJarvis/MC-Planner)
