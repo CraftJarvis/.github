@@ -8,7 +8,7 @@ Here are a list of our latest publications on Open-world Agents.
 
 ### GROOT: Learning to Follow Instructions by Watching Gameplay Videos 
 
-<img src="../assets/2310.08235.png" />
+<img src="https://i.postimg.cc/9FXhfKsG/2310-08235.png" />
 
 [[Website]](https://craftjarvis.org/GROOT/)
 [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
