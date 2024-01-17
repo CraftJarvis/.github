@@ -17,7 +17,7 @@ Here are a list of our latest publications on Open-world Agents.
 * JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models
 
     [[Website]](https://craftjarvis.org/JARVIS-1/)
-[[Paper]](https://arxiv.org/pdf/2111.05997.pdf)
+[[Paper]](https://arxiv.org/pdf/2311.05997.pdf)
 [[Code]](https://github.com/CraftJarvis/JARVIS-1)
 
 * MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft
