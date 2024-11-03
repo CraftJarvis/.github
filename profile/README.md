@@ -6,7 +6,7 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents.
 
-<img src="https://i.postimg.cc/9FXhfKsG/2310-08235.png" />
+<img src="https://cdn-fusion.imgcdn.store/i/2024/3ea499b541d7882a.png" />
 
 * ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting
 
