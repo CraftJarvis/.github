@@ -6,8 +6,10 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents.
 
-<img src="https://cdn-fusion.imgcdn.store/i/2024/3ea499b541d7882a.png" />
+* **MinsStudio: A Streamlined Package for Minecraft AI Agent Development**
 
+    [[Code]](https://github.com/CraftJarvis/MineStudio)
+  [[Document]](https://craftjarvis.github.io/MineStudio/)
 * **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**
 
     [[Website]](https://craftjarvis.org/ROCKET-1/)
