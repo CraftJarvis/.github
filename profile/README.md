@@ -12,7 +12,7 @@ Here are a list of our latest publications on Open-world Agents.
 [[Code]](https://github.com/CraftJarvis/MineStudio)
 [[Document]](https://craftjarvis.github.io/MineStudio/)
 
-* **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**
+* **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting** (CVPR 2025)
 
     [[Website]](https://craftjarvis.org/ROCKET-1/)
 [[Paper]](https://arxiv.org/abs/2410.17856)
@@ -20,13 +20,13 @@ Here are a list of our latest publications on Open-world Agents.
 [[Demo]](https://huggingface.co/spaces/phython96/ROCKET-1-DEMO)
 
 
-* **GROOT: Learning to Follow Instructions by Watching Gameplay Videos**
+* **GROOT: Learning to Follow Instructions by Watching Gameplay Videos** (ICLR 2024)
 
     [[Website]](https://craftjarvis.org/GROOT/)
 [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
 [[Code]](https://github.com/CraftJarvis/GROOT)
 
-* **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**
+* **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** (T-PAMI 2024)
 
     [[Website]](https://craftjarvis.org/JARVIS-1/)
 [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)
@@ -37,12 +37,12 @@ Here are a list of our latest publications on Open-world Agents.
     [[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
 [[Code]](https://github.com/CraftJarvis/MCU)
 
-* **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
+* **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** (NeurIPS 2023)
 
     [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)
 [[Code]](https://github.com/CraftJarvis/MC-Planner)
 
-* **Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction**
+* **Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction** (CVPR 2023)
 
     [[Paper]](https://arxiv.org/pdf/2302.01560.pdf)
 [[Code]](https://github.com/CraftJarvis/MC-Controller)
