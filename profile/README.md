@@ -19,6 +19,9 @@ Here are a list of our latest publications on Open-world Agents.
 [[Code]](https://github.com/CraftJarvis/ROCKET-1)
 [[Demo]](https://huggingface.co/spaces/phython96/ROCKET-1-DEMO)
 
+* **GROOT-2: Weakly Supervised Multi-Modal Instruction Following Agents** (ICLR 2025)
+
+    [[Paper]](https://arxiv.org/pdf/2412.10410)
 
 * **GROOT: Learning to Follow Instructions by Watching Gameplay Videos** (ICLR 2024)
 
