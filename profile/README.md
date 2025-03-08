@@ -13,7 +13,7 @@ Here are a list of our latest publications on Open-world Agents.
 [[Document]](https://craftjarvis.github.io/MineStudio/)
 
 
-* **ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment** (CVPR 2025)
+* **ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment** 
 
     [[Website]](https://craftjarvis.org/ROCKET-2/)
 [[Paper]](https://arxiv.org/pdf/2503.02505)
