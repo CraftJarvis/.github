@@ -6,6 +6,15 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents.
 
+* **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**
+
+  [[Website]](https://craftjarvis.github.io/JarvisVLA/)
+[[Paper]](https://arxiv.org/pdf/2503.16365)
+[[Videos]](https://craftjarvis.github.io/JarvisVLA/#results)
+[[Datasets]](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)
+[[Models]](https://huggingface.co/collections/CraftJarvis/jarvis-vla-v1-67dc157a99d011efd7d7f7e4)
+
+
 * **MineStudio: A Streamlined Package for Minecraft AI Agent Development**
 
     [[Paper]](https://arxiv.org/abs/2412.18293)
