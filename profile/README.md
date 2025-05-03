@@ -14,6 +14,12 @@ Here are a list of our latest publications on Open-world Agents.
 [[Datasets]](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)
 [[Models]](https://huggingface.co/collections/CraftJarvis/jarvis-vla-v1-67dc157a99d011efd7d7f7e4)
 
+* **MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft** (ICML 2025)
+
+    [[Website]](https://craftjarvis.github.io/MCU/)
+[[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
+[[Code]](https://github.com/CraftJarvis/MCU)
+
 
 * **MineStudio: A Streamlined Package for Minecraft AI Agent Development**
 
@@ -57,11 +63,6 @@ Here are a list of our latest publications on Open-world Agents.
     [[Website]](https://craftjarvis.github.io/JARVIS-1/)
 [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)
 [[Code]](https://github.com/CraftJarvis/JARVIS-1)
-
-* **MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft**
-
-    [[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
-[[Code]](https://github.com/CraftJarvis/MCU)
 
 * **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** (NeurIPS 2023)
 
