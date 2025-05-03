@@ -14,7 +14,7 @@ Here are a list of our latest publications on Open-world Agents.
 [[Datasets]](https://huggingface.co/datasets/CraftJarvis/minecraft-vla-sft)
 [[Models]](https://huggingface.co/collections/CraftJarvis/jarvis-vla-v1-67dc157a99d011efd7d7f7e4)
 
-* **MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft** (ICML 2025)
+* **MCU: An Evaluation Framework for Open-Ended Game Agents** (ICML 2025)
 
     [[Website]](https://craftjarvis.github.io/MCU/)
 [[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
