@@ -33,7 +33,7 @@ Here are a list of our latest publications on Open-world Agents.
     [[Website]](https://craftjarvis.github.io/ROCKET-2/)
 [[Paper]](https://arxiv.org/pdf/2503.02505)
 [[Code]](https://github.com/CraftJarvis/ROCKET-2)
-[[Demo]](https://huggingface.co/spaces/phython96/ROCKET-2-DEMO)
+[[Demo]](https://openbayes.com/console/public/tutorials/cHZ3teJXaQU)
 
 
 * **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting** (CVPR 2025)
