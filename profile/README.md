@@ -20,6 +20,11 @@ Here are a list of our latest publications on Open-world Agents. (Sort by time o
 [[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
 [[Code]](https://github.com/CraftJarvis/MCU)
 
+* **Open-World Skill Discovery from Unsegmented Demonstrations**
+
+    [[Website]](https://craftjarvis.github.io/SkillDiscovery/)
+[[Paper]](https://arxiv.org/abs/2503.10684)
+[[Code]](https://github.com/CraftJarvis/SkillDiscovery)
 
 * **MineStudio: A Streamlined Package for Minecraft AI Agent Development**
 
