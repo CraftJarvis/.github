@@ -4,7 +4,7 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 ## Publications
 
-Here are a list of our latest publications on Open-world Agents.
+Here are a list of our latest publications on Open-world Agents. (Sort by time order)
 
 * **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse** (ACL 2025)
 
