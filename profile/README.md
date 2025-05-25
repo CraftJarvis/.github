@@ -6,7 +6,7 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents.
 
-* **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**
+* **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse** (ACL 2025)
 
   [[Website]](https://craftjarvis.github.io/JarvisVLA/)
 [[Paper]](https://arxiv.org/pdf/2503.16365)
@@ -35,7 +35,6 @@ Here are a list of our latest publications on Open-world Agents.
 [[Code]](https://github.com/CraftJarvis/ROCKET-2)
 [[Demo]](https://openbayes.com/console/public/tutorials/cHZ3teJXaQU)
 
-
 * **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting** (CVPR 2025)
 
     [[Website]](https://craftjarvis.github.io/ROCKET-1/)
@@ -47,12 +46,6 @@ Here are a list of our latest publications on Open-world Agents.
 
     [[Paper]](https://arxiv.org/pdf/2412.10410)
 
-* **GROOT: Learning to Follow Instructions by Watching Gameplay Videos** (ICLR 2024)
-
-    [[Website]](https://craftjarvis.org/GROOT/)
-[[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
-[[Code]](https://github.com/CraftJarvis/GROOT)
-
 * **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**  (NeurIPS 2024)
 
     [[Website]](https://craftjarvis.github.io/OmniJARVIS/)
@@ -63,6 +56,12 @@ Here are a list of our latest publications on Open-world Agents.
     [[Website]](https://craftjarvis.github.io/JARVIS-1/)
 [[Paper]](https://arxiv.org/pdf/2311.05997.pdf)
 [[Code]](https://github.com/CraftJarvis/JARVIS-1)
+
+* **GROOT: Learning to Follow Instructions by Watching Gameplay Videos** (ICLR 2024)
+
+    [[Website]](https://craftjarvis.org/GROOT/)
+[[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
+[[Code]](https://github.com/CraftJarvis/GROOT)
 
 * **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** (NeurIPS 2023)
 
