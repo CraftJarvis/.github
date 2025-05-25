@@ -47,16 +47,16 @@ Here are a list of our latest publications on Open-world Agents.
 
     [[Paper]](https://arxiv.org/pdf/2412.10410)
 
-* **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**  (NeurIPS 2024)
-
-    [[Website]](https://craftjarvis.github.io/OmniJARVIS/)
-[[Paper]](https://arxiv.org/abs/2407.00114)
-
 * **GROOT: Learning to Follow Instructions by Watching Gameplay Videos** (ICLR 2024)
 
     [[Website]](https://craftjarvis.org/GROOT/)
 [[Paper]](https://arxiv.org/pdf/2310.08235.pdf)
 [[Code]](https://github.com/CraftJarvis/GROOT)
+
+* **OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents**  (NeurIPS 2024)
+
+    [[Website]](https://craftjarvis.github.io/OmniJARVIS/)
+[[Paper]](https://arxiv.org/abs/2407.00114)
 
 * **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** (T-PAMI 2024)
 
