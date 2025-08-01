@@ -6,7 +6,7 @@ At CraftJarvis, we're a passionate team committed to exploring the vast potentia
 
 Here are a list of our latest publications on Open-world Agents. (Sort by time order)
 
-* **Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents** 
+* **Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents (ROCKET-3)** 
 
     [[Website]](https://craftjarvis.github.io/ROCKET-3/)
 [[Paper]](https://arxiv.org/pdf/2507.23698)
