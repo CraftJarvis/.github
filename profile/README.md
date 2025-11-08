@@ -26,7 +26,7 @@ Here are a list of our latest publications on Open-world Agents. (Sort by time o
 [[Paper]](https://arxiv.org/pdf/2310.08367.pdf)
 [[Code]](https://github.com/CraftJarvis/MCU)
 
-* **Open-World Skill Discovery from Unsegmented Demonstrations**
+* **Open-World Skill Discovery from Unsegmented Demonstrations** (ICCV 2025)
 
     [[Website]](https://craftjarvis.github.io/SkillDiscovery/)
 [[Paper]](https://arxiv.org/abs/2503.10684)
